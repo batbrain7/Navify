@@ -19,6 +19,7 @@
         android:textColor="#fff"
         android:textColorHint="#fff"
         android:padding="10dp"
+        android:visibility="gone"
         android:background="@drawable/edt_back"
         android:hint="Enter your location here"
         />
@@ -34,8 +35,8 @@
         android:id="@+id/search_btn"
         />
     <android.support.design.widget.FloatingActionButton
-        android:layout_width="100dp"
-        android:layout_height="100dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:id="@+id/voice_btn"
         app:backgroundTint="#1e90ff"
         android:layout_marginBottom="30dp"
