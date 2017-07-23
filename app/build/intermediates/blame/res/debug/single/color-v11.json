@@ -4,7 +4,15 @@
         "source": "/Users/mohitkumar/.android/build-cache/11faedf788d09a18afbea86f640ce250f7016257/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
+        "merged": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/mohitkumar/.android/build-cache/11faedf788d09a18afbea86f640ce250f7016257/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "/Users/mohitkumar/Downloads/Navify-master/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/mohitkumar/.android/build-cache/11faedf788d09a18afbea86f640ce250f7016257/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
         "source": "/Users/mohitkumar/.android/build-cache/11faedf788d09a18afbea86f640ce250f7016257/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_mic_none_white_24dp.png",
+        "source": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/src/main/res/drawable-xhdpi/ic_mic_none_white_24dp.png"
+    },
+    {
         "merged": "/Users/mohitkumar/Downloads/Navify-master/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_mic_none_white_24dp.png",
         "source": "/Users/mohitkumar/Downloads/Navify-master/app/src/main/res/drawable-xhdpi/ic_mic_none_white_24dp.png"
     }

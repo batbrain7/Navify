@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/mohitkumar/.android/build-cache/11faedf788d09a18afbea86f640ce250f7016257/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
         "merged": "/Users/mohitkumar/Downloads/Navify-master/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
         "source": "/Users/mohitkumar/.android/build-cache/11faedf788d09a18afbea86f640ce250f7016257/output/res/drawable-v23/abc_control_background_material.xml"
     }

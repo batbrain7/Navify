@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "/Users/mohitkumar/Downloads/Navify-master/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
         "source": "/Users/mohitkumar/Downloads/Navify-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
@@ -10,5 +18,9 @@
     {
         "merged": "/Users/mohitkumar/Downloads/Navify-master/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
         "source": "/Users/mohitkumar/Downloads/Navify-master/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher2.png",
+        "source": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/src/main/res/mipmap-hdpi/ic_launcher2.png"
     }
 ]

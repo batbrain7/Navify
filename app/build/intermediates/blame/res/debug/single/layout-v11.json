@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/mohitkumar/.android/build-cache/11faedf788d09a18afbea86f640ce250f7016257/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/mohitkumar/.android/build-cache/11faedf788d09a18afbea86f640ce250f7016257/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
         "merged": "/Users/mohitkumar/Downloads/Navify-master/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
         "source": "/Users/mohitkumar/.android/build-cache/11faedf788d09a18afbea86f640ce250f7016257/output/res/layout-v11/notification_template_big_media.xml"
     },
@@ -16,11 +24,27 @@
         "source": "/Users/mohitkumar/.android/build-cache/11faedf788d09a18afbea86f640ce250f7016257/output/res/layout-v11/notification_template_big_media_custom.xml"
     },
     {
+        "merged": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/mohitkumar/.android/build-cache/11faedf788d09a18afbea86f640ce250f7016257/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/mohitkumar/.android/build-cache/11faedf788d09a18afbea86f640ce250f7016257/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/mohitkumar/.android/build-cache/11faedf788d09a18afbea86f640ce250f7016257/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
         "merged": "/Users/mohitkumar/Downloads/Navify-master/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
         "source": "/Users/mohitkumar/.android/build-cache/11faedf788d09a18afbea86f640ce250f7016257/output/res/layout-v11/notification_media_cancel_action.xml"
     },
     {
         "merged": "/Users/mohitkumar/Downloads/Navify-master/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
         "source": "/Users/mohitkumar/.android/build-cache/11faedf788d09a18afbea86f640ce250f7016257/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/mohitkumar/.android/build-cache/11faedf788d09a18afbea86f640ce250f7016257/output/res/layout-v11/notification_media_action.xml"
     }
 ]
