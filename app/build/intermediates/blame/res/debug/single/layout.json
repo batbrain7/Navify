@@ -52,6 +52,10 @@
         "source": "/Users/mohitkumar/.android/build-cache/11faedf788d09a18afbea86f640ce250f7016257/output/res/layout/notification_template_media_custom.xml"
     },
     {
+        "merged": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/src/main/res/layout/activity_main.xml"
+    },
+    {
         "merged": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/Users/mohitkumar/.android/build-cache/11faedf788d09a18afbea86f640ce250f7016257/output/res/layout/abc_action_menu_layout.xml"
     },
