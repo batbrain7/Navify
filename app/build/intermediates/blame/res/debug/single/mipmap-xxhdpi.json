@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mohitkumar/Downloads/Navify-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/mohitkumar/Downloads/Navify-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mohitkumar/Downloads/Navify-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher2.png",
+        "source": "/Users/mohitkumar/Downloads/Navify-master/app/src/main/res/mipmap-xxhdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "/Users/mohitkumar/Downloads/Navify-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/mohitkumar/Downloads/Navify-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
