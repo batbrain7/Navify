@@ -114,6 +114,7 @@ public class CameraActivity extends Activity implements View.OnClickListener {
         public void surfaceCreated(SurfaceHolder holder) {
             try {
                 camera.setPreviewDisplay(previewHolder);
+                camera.setDisplayOrientation(90);
             } catch (Throwable t) {
                 Log.e("CameraAct",
                         "Exception in setPreviewDisp", t);
@@ -131,6 +132,7 @@ public class CameraActivity extends Activity implements View.OnClickListener {
 
             if (size != null) {
                 parameters.setPreviewSize(size.width, size.height);
+                parameters.setRotation(90);
                 camera.setParameters(parameters);
                 camera.startPreview();
                 inPreview = true;
