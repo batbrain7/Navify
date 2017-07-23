@@ -57,7 +57,7 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mohi
 	android:allowBackup
 		ADDED from /Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/src/main/AndroidManifest.xml:12:9-35
 	android:icon
-		ADDED from /Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/src/main/AndroidManifest.xml:13:9-44
+		ADDED from /Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/src/main/AndroidManifest.xml:13:9-38
 	android:theme
 		ADDED from /Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/src/main/AndroidManifest.xml:17:9-40
 activity#tech.mohitkumar.navify.SplashActivity
@@ -81,9 +81,7 @@ ADDED from /Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/src/main
 	android:name
 		ADDED from /Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/src/main/AndroidManifest.xml:27:19-48
 activity#tech.mohitkumar.navify.CameraActivity
-ADDED from /Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/src/main/AndroidManifest.xml:28:9-30:62
-	android:screenOrientation
-		ADDED from /Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/src/main/AndroidManifest.xml:30:13-50
+ADDED from /Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/src/main/AndroidManifest.xml:28:9-30:25
 	android:name
 		ADDED from /Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/src/main/AndroidManifest.xml:29:13-43
 uses-sdk

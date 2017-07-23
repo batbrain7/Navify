@@ -59,11 +59,11 @@ public class CameraActivity extends Activity implements View.OnClickListener {
 
 
 
-        imgMap = (ImageView) findViewById(R.id.img_map);
+     //   imgMap = (ImageView) findViewById(R.id.img_map);
         image = (ImageView) findViewById(R.id.image);
         preview = (SurfaceView) findViewById(R.id.surface);
 
-        imgMap.setImageResource(R.drawable.map);
+    //    imgMap.setImageResource(R.drawable.map);
         previewHolder = preview.getHolder();
 
         previewHolder.addCallback(surfaceCallback);

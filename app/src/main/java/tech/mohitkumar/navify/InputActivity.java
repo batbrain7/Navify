@@ -129,8 +129,8 @@ public class InputActivity extends AppCompatActivity {
 
                     ArrayList<String> result = data
                             .getStringArrayListExtra(RecognizerIntent.EXTRA_RESULTS);
-                    Toast.makeText(getApplicationContext(), result.get(0), Toast.LENGTH_LONG).show();
-                    tv.setText("Searching your location ..... please wait");
+                    //Toast.makeText(getApplicationContext(), result.get(0), Toast.LENGTH_LONG).show();
+                    tv.setText("         Fetching your location");
                     behavior.setState(BottomSheetBehavior.STATE_EXPANDED);
                     Handler handler = new Handler();
                     handler.postDelayed(new Runnable() {
