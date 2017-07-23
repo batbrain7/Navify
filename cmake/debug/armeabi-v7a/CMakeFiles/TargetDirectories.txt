@@ -1,0 +1,3 @@
+K:/AndroidProjects/ShootToKill-master/ShootToKill-master/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/tensorflow_demo.dir
+K:/AndroidProjects/ShootToKill-master/ShootToKill-master/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+K:/AndroidProjects/ShootToKill-master/ShootToKill-master/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

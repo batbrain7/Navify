@@ -1,0 +1,119 @@
+
+{
+	"buildFiles" : 
+	[
+		"K:/AndroidProjects/ShootToKill-master/ShootToKill-master/jni/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\rathi\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build K:\\AndroidProjects\\ShootToKill-master\\ShootToKill-master\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cc" ],
+	"libraries" : 
+	{
+		"tensorflow_demo-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "tensorflow_demo",
+			"buildCommand" : "C:\\Users\\rathi\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build K:\\AndroidProjects\\ShootToKill-master\\ShootToKill-master\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target tensorflow_demo",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --sysroot=C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot  -Dtensorflow_demo_EXPORTS -IK:\\ -IK:\\AndroidProjects\\ShootToKill-master\\ShootToKill-master\\jni -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/jni/imageutils_jni.cc",
+					"workingDirectory" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --sysroot=C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot  -Dtensorflow_demo_EXPORTS -IK:\\ -IK:\\AndroidProjects\\ShootToKill-master\\ShootToKill-master\\jni -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/jni/object_tracking/frame_pair.cc",
+					"workingDirectory" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --sysroot=C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot  -Dtensorflow_demo_EXPORTS -IK:\\ -IK:\\AndroidProjects\\ShootToKill-master\\ShootToKill-master\\jni -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/jni/object_tracking/image_neon.cc",
+					"workingDirectory" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --sysroot=C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot  -Dtensorflow_demo_EXPORTS -IK:\\ -IK:\\AndroidProjects\\ShootToKill-master\\ShootToKill-master\\jni -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/jni/object_tracking/keypoint_detector.cc",
+					"workingDirectory" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --sysroot=C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot  -Dtensorflow_demo_EXPORTS -IK:\\ -IK:\\AndroidProjects\\ShootToKill-master\\ShootToKill-master\\jni -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/jni/object_tracking/logging.cc",
+					"workingDirectory" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --sysroot=C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot  -Dtensorflow_demo_EXPORTS -IK:\\ -IK:\\AndroidProjects\\ShootToKill-master\\ShootToKill-master\\jni -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/jni/object_tracking/object_detector.cc",
+					"workingDirectory" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --sysroot=C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot  -Dtensorflow_demo_EXPORTS -IK:\\ -IK:\\AndroidProjects\\ShootToKill-master\\ShootToKill-master\\jni -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/jni/object_tracking/object_tracker.cc",
+					"workingDirectory" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --sysroot=C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot  -Dtensorflow_demo_EXPORTS -IK:\\ -IK:\\AndroidProjects\\ShootToKill-master\\ShootToKill-master\\jni -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/jni/object_tracking/object_tracker_jni.cc",
+					"workingDirectory" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --sysroot=C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot  -Dtensorflow_demo_EXPORTS -IK:\\ -IK:\\AndroidProjects\\ShootToKill-master\\ShootToKill-master\\jni -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/jni/object_tracking/optical_flow.cc",
+					"workingDirectory" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --sysroot=C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot  -Dtensorflow_demo_EXPORTS -IK:\\ -IK:\\AndroidProjects\\ShootToKill-master\\ShootToKill-master\\jni -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/jni/object_tracking/time_log.cc",
+					"workingDirectory" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --sysroot=C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot  -Dtensorflow_demo_EXPORTS -IK:\\ -IK:\\AndroidProjects\\ShootToKill-master\\ShootToKill-master\\jni -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/jni/object_tracking/tracked_object.cc",
+					"workingDirectory" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --sysroot=C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot  -Dtensorflow_demo_EXPORTS -IK:\\ -IK:\\AndroidProjects\\ShootToKill-master\\ShootToKill-master\\jni -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/jni/object_tracking/utils_neon.cc",
+					"workingDirectory" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --sysroot=C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot  -Dtensorflow_demo_EXPORTS -IK:\\ -IK:\\AndroidProjects\\ShootToKill-master\\ShootToKill-master\\jni -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/jni/rgb2yuv.cc",
+					"workingDirectory" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --sysroot=C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot  -Dtensorflow_demo_EXPORTS -IK:\\ -IK:\\AndroidProjects\\ShootToKill-master\\ShootToKill-master\\jni -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem C:\\Users\\rathi\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=17 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/jni/yuv2rgb.cc",
+					"workingDirectory" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/.externalNativeBuild/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "K:/AndroidProjects/ShootToKill-master/ShootToKill-master/gradleBuild/intermediates/cmake/release/obj/armeabi-v7a/libtensorflow_demo.so",
+			"toolchain" : "2043559751"
+		}
+	},
+	"toolchains" : 
+	{
+		"2043559751" : 
+		{
+			"cCompilerExecutable" : "C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/arm-linux-androideabi-gcc.exe",
+			"cppCompilerExecutable" : "C:/Users/rathi/AppData/Local/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/bin/arm-linux-androideabi-g++.exe"
+		}
+	}
+}
