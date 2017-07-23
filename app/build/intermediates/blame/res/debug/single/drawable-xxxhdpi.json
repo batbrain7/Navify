@@ -12,7 +12,15 @@
         "source": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/src/main/res/drawable-xxxhdpi/logo.png"
     },
     {
+        "merged": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/microphone1.png",
+        "source": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/src/main/res/drawable-xxxhdpi/microphone1.png"
+    },
+    {
         "merged": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/navif.png",
         "source": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/src/main/res/drawable-xxxhdpi/navif.png"
+    },
+    {
+        "merged": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/microphone.png",
+        "source": "/Users/mohitkumar/Documents/AndroidStudioProjects/Navify/app/src/main/res/drawable-xxxhdpi/microphone.png"
     }
 ]

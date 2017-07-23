@@ -15,6 +15,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -30,7 +31,7 @@ public class InputActivity extends AppCompatActivity {
     Button button;
     RelativeLayout relativeLayout,layout1;
     EditText editText;
-    FloatingActionButton fab;
+    ImageView fab;
     TextView tv;
     AVLoadingIndicatorView indicatorView;
     private final int REQ_CODE_SPEECH_INPUT = 100;
@@ -50,7 +51,7 @@ public class InputActivity extends AppCompatActivity {
                 MY_PERMISSIONS_REQUEST_CAMERA);
         editText = (EditText) findViewById(R.id.edit_txt);
         button = (Button) findViewById(R.id.search_btn);
-        fab = (FloatingActionButton) findViewById(R.id.voice_btn);
+        fab = (ImageView) findViewById(R.id.voice_btn);
 
         fab.setOnClickListener(new View.OnClickListener() {
             @Override

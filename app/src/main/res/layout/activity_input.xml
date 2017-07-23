@@ -34,16 +34,13 @@
         android:layout_margin="20dp"
         android:id="@+id/search_btn"
         />
-    <android.support.design.widget.FloatingActionButton
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+    <ImageView
         android:id="@+id/voice_btn"
-        app:backgroundTint="#1e90ff"
-        android:layout_marginBottom="30dp"
-        android:layout_centerVertical="true"
-        android:layout_marginTop="400dp"
-        android:layout_centerHorizontal="true"
-        android:src="@drawable/ic_mic_none_white_24dp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="320dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/microphone1"
         />
     </RelativeLayout>
     <RelativeLayout
